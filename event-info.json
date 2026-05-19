@@ -1,0 +1,59 @@
+{
+  "venue": {
+    "confirmed": false,
+    "name": "Hymamshu Jyothi Kala Peetha",
+    "addressLines": [
+      "Malleshwaram",
+      "Hymamshu Road",
+      "4th main (R V labs road)"
+    ],
+    "mapsUrl": "https://maps.app.goo.gl/sc8C8VzvNwqgvfS68"
+  },
+  "dates": "27th & 28th June 2026",
+  "contact": {
+    "email": "pratibhaggss@gmail.com"
+  },
+  "fee": "₹80 per competition",
+  "schedule": {
+    "subJuniors": {
+      "1": "TBA",
+      "2": "TBA",
+      "3": "TBA",
+      "4": "TBA",
+      "5": "TBA",
+      "6": "TBA",
+      "7": "TBA"
+    },
+    "juniors": {
+      "1": "TBA",
+      "2": "TBA",
+      "3": "TBA",
+      "4": "TBA",
+      "5": "TBA",
+      "6": "TBA",
+      "7": "TBA",
+      "8": "TBA",
+      "9": "TBA",
+      "G1": "TBA",
+      "G2": "TBA",
+      "G3": "TBA",
+      "G4": "TBA"
+    },
+    "seniors": {
+      "1": "TBA",
+      "2": "TBA",
+      "3": "TBA",
+      "4": "TBA",
+      "5": "TBA",
+      "6": "TBA",
+      "7": "TBA",
+      "8": "TBA",
+      "9": "TBA",
+      "G1": "TBA",
+      "G2": "TBA",
+      "G3": "TBA",
+      "G4": "TBA"
+    }
+  },
+  "lastUpdated": "2026-05-19"
+}
